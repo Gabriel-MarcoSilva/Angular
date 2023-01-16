@@ -1,1 +1,3 @@
 # Angular
+
+iniciar: ng serve
